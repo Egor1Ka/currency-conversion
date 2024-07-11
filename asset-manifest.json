@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/currency-conversion/static/css/main.43767dad.css",
-    "main.js": "/currency-conversion/static/js/main.e4efe229.js",
-    "static/media/logoPromovaText.png": "/currency-conversion/static/media/logoPromovaText.f7a762f1bcf3fa085cc1.png",
-    "PromovaLongLogo.svg": "/currency-conversion/PromovaLongLogo.svg",
-    "index.html": "/currency-conversion/index.html",
-    "main.43767dad.css.map": "/currency-conversion/static/css/main.43767dad.css.map",
-    "main.e4efe229.js.map": "/currency-conversion/static/js/main.e4efe229.js.map"
+    "main.css": "/static/css/main.43767dad.css",
+    "main.js": "/static/js/main.ad9bcd06.js",
+    "static/media/logoPromovaText.png": "/static/media/logoPromovaText.f7a762f1bcf3fa085cc1.png",
+    "PromovaLongLogo.svg": "/PromovaLongLogo.svg",
+    "index.html": "/index.html",
+    "main.43767dad.css.map": "/static/css/main.43767dad.css.map",
+    "main.ad9bcd06.js.map": "/static/js/main.ad9bcd06.js.map"
   },
   "entrypoints": [
     "static/css/main.43767dad.css",
-    "static/js/main.e4efe229.js"
+    "static/js/main.ad9bcd06.js"
   ]
 }
